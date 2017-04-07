@@ -3,12 +3,12 @@
 	version="1.0.0" 
 	xmlns="http://www.w3.org/ns/widgets" 
 	xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>PedidosApp</name>
+    <name>Latin Show</name>
     <description>
-        Aplicación móvil encargadar de realizar pedidos del cliente. 
+        Aplicación móvil - List Play 
     </description>
-    <author email="soporte@pcsistel.com" href="https://www.pcsistel.com">
-        Visualsoft
+    <author email="soporte@latinshow.com" href="https://www.latinshow.com">
+        LatinShow
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
